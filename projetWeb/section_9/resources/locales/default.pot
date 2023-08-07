@@ -1,0 +1,435 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2022-10-02 01:48+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: ./src/Controller/CarsController.php:63
+#: ./src/Controller/CarsController.php:96
+msgid "The car has been saved."
+msgstr ""
+
+#: ./src/Controller/CarsController.php:67
+#: ./src/Controller/CarsController.php:100
+msgid "The car could not be saved. Please, try again."
+msgstr ""
+
+#: ./src/Controller/CarsController.php:121
+msgid "The car has been deleted."
+msgstr ""
+
+#: ./src/Controller/CarsController.php:123
+msgid "The car could not be deleted. Please, try again."
+msgstr ""
+
+#: ./src/Controller/ModelController.php:53
+#: ./src/Controller/ModelController.php:77
+msgid "The model has been saved."
+msgstr ""
+
+#: ./src/Controller/ModelController.php:57
+#: ./src/Controller/ModelController.php:81
+msgid "The model could not be saved. Please, try again."
+msgstr ""
+
+#: ./src/Controller/ModelController.php:98
+msgid "The model has been deleted."
+msgstr ""
+
+#: ./src/Controller/ModelController.php:100
+msgid "The model could not be deleted. Please, try again."
+msgstr ""
+
+#: ./src/Controller/SpecificationsController.php:53
+#: ./src/Controller/SpecificationsController.php:78
+msgid "The specification has been saved."
+msgstr ""
+
+#: ./src/Controller/SpecificationsController.php:57
+#: ./src/Controller/SpecificationsController.php:82
+msgid "The specification could not be saved. Please, try again."
+msgstr ""
+
+#: ./src/Controller/SpecificationsController.php:100
+msgid "The specification has been deleted."
+msgstr ""
+
+#: ./src/Controller/SpecificationsController.php:102
+msgid "The specification could not be deleted. Please, try again."
+msgstr ""
+
+#: ./src/Controller/UsersController.php:39
+msgid "Invalid username or password"
+msgstr ""
+
+#: ./src/Controller/UsersController.php:82
+#: ./src/Controller/UsersController.php:106
+msgid "The user has been saved."
+msgstr ""
+
+#: ./src/Controller/UsersController.php:86
+#: ./src/Controller/UsersController.php:110
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: ./src/Controller/UsersController.php:127
+msgid "The user has been deleted."
+msgstr ""
+
+#: ./src/Controller/UsersController.php:129
+msgid "The user could not be deleted. Please, try again."
+msgstr ""
+
+#: ./templates/Cars/add.php:13
+#: ./templates/Cars/edit.php:13
+#: ./templates/Cars/index.php:22
+#: ./templates/Cars/view.php:10
+#: ./templates/Cars/view.php:56
+#: ./templates/Model/add.php:10
+#: ./templates/Model/edit.php:10
+#: ./templates/Model/index.php:19
+#: ./templates/Model/view.php:10
+#: ./templates/Model/view.php:56
+#: ./templates/Specifications/add.php:11
+#: ./templates/Specifications/edit.php:11
+#: ./templates/Specifications/index.php:18
+#: ./templates/Specifications/view.php:10
+#: ./templates/Specifications/view.php:52
+#: ./templates/Users/add.php:10
+#: ./templates/Users/edit.php:10
+#: ./templates/Users/index.php:19
+#: ./templates/Users/view.php:10
+#: ./templates/Users/view.php:56
+msgid "Actions"
+msgstr ""
+
+#: ./templates/Cars/add.php:14
+#: ./templates/Cars/edit.php:19
+#: ./templates/Cars/view.php:13
+msgid "List Cars"
+msgstr ""
+
+#: ./templates/Cars/add.php:21
+msgid "Add Car"
+msgstr ""
+
+#: ./templates/Cars/add.php:31
+#: ./templates/Cars/edit.php:36
+#: ./templates/Model/add.php:24
+#: ./templates/Model/edit.php:29
+#: ./templates/Specifications/add.php:25
+#: ./templates/Specifications/edit.php:30
+#: ./templates/Users/add.php:25
+#: ./templates/Users/edit.php:30
+msgid "Submit"
+msgstr ""
+
+#: ./templates/Cars/edit.php:15
+#: ./templates/Cars/index.php:38
+#: ./templates/Cars/view.php:67
+#: ./templates/Model/edit.php:12
+#: ./templates/Model/index.php:33
+#: ./templates/Model/view.php:71
+#: ./templates/Specifications/edit.php:13
+#: ./templates/Specifications/index.php:31
+#: ./templates/Specifications/view.php:67
+#: ./templates/Users/edit.php:12
+#: ./templates/Users/index.php:33
+#: ./templates/Users/view.php:71
+msgid "Delete"
+msgstr ""
+
+#: ./templates/Cars/edit.php:17
+#: ./templates/Cars/index.php:38
+#: ./templates/Cars/view.php:12
+#: ./templates/Cars/view.php:67
+#: ./templates/Model/edit.php:14
+#: ./templates/Model/index.php:33
+#: ./templates/Model/view.php:12
+#: ./templates/Model/view.php:71
+#: ./templates/Specifications/edit.php:15
+#: ./templates/Specifications/index.php:31
+#: ./templates/Specifications/view.php:12
+#: ./templates/Specifications/view.php:67
+#: ./templates/Users/edit.php:14
+#: ./templates/Users/index.php:33
+#: ./templates/Users/view.php:12
+#: ./templates/Users/view.php:71
+msgid "Are you sure you want to delete # {0}?"
+msgstr ""
+
+#: ./templates/Cars/edit.php:26
+#: ./templates/Cars/view.php:11
+msgid "Edit Car"
+msgstr ""
+
+#: ./templates/Cars/index.php:8
+#: ./templates/Cars/view.php:14
+msgid "New Car"
+msgstr ""
+
+#: ./templates/Cars/index.php:9
+msgid "Cars"
+msgstr ""
+
+#: ./templates/Cars/index.php:36
+#: ./templates/Cars/view.php:65
+#: ./templates/Model/index.php:31
+#: ./templates/Model/view.php:69
+#: ./templates/Specifications/index.php:29
+#: ./templates/Specifications/view.php:65
+#: ./templates/Users/index.php:31
+#: ./templates/Users/view.php:69
+msgid "View"
+msgstr ""
+
+#: ./templates/Cars/index.php:37
+#: ./templates/Cars/view.php:66
+#: ./templates/Model/index.php:32
+#: ./templates/Model/view.php:70
+#: ./templates/Specifications/index.php:30
+#: ./templates/Specifications/view.php:66
+#: ./templates/Users/index.php:32
+#: ./templates/Users/view.php:70
+msgid "Edit"
+msgstr ""
+
+#: ./templates/Cars/index.php:47
+#: ./templates/Model/index.php:42
+#: ./templates/Specifications/index.php:40
+#: ./templates/Users/index.php:42
+msgid "first"
+msgstr ""
+
+#: ./templates/Cars/index.php:48
+#: ./templates/Model/index.php:43
+#: ./templates/Specifications/index.php:41
+#: ./templates/Users/index.php:43
+msgid "previous"
+msgstr ""
+
+#: ./templates/Cars/index.php:50
+#: ./templates/Model/index.php:45
+#: ./templates/Specifications/index.php:43
+#: ./templates/Users/index.php:45
+msgid "next"
+msgstr ""
+
+#: ./templates/Cars/index.php:51
+#: ./templates/Model/index.php:46
+#: ./templates/Specifications/index.php:44
+#: ./templates/Users/index.php:46
+msgid "last"
+msgstr ""
+
+#: ./templates/Cars/index.php:53
+#: ./templates/Model/index.php:48
+#: ./templates/Specifications/index.php:46
+#: ./templates/Users/index.php:48
+msgid "Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} total"
+msgstr ""
+
+#: ./templates/Cars/view.php:12
+msgid "Delete Car"
+msgstr ""
+
+#: ./templates/Cars/view.php:22
+msgid "User"
+msgstr ""
+
+#: ./templates/Cars/view.php:26
+#: ./templates/Model/view.php:22
+#: ./templates/Model/view.php:50
+#: ./templates/Specifications/view.php:46
+#: ./templates/Users/view.php:26
+#: ./templates/Users/view.php:50
+msgid "Name"
+msgstr ""
+
+#: ./templates/Cars/view.php:30
+#: ./templates/Model/view.php:52
+#: ./templates/Specifications/view.php:48
+#: ./templates/Users/view.php:52
+msgid "Image"
+msgstr ""
+
+#: ./templates/Cars/view.php:34
+#: ./templates/Model/index.php:9
+msgid "Model"
+msgstr ""
+
+#: ./templates/Cars/view.php:38
+#: ./templates/Cars/view.php:54
+#: ./templates/Model/view.php:34
+#: ./templates/Model/view.php:53
+#: ./templates/Specifications/view.php:30
+#: ./templates/Specifications/view.php:49
+#: ./templates/Users/view.php:34
+#: ./templates/Users/view.php:53
+msgid "Created"
+msgstr ""
+
+#: ./templates/Cars/view.php:42
+#: ./templates/Cars/view.php:55
+#: ./templates/Model/view.php:38
+#: ./templates/Model/view.php:54
+#: ./templates/Specifications/view.php:34
+#: ./templates/Specifications/view.php:50
+#: ./templates/Users/view.php:38
+#: ./templates/Users/view.php:54
+msgid "Modified"
+msgstr ""
+
+#: ./templates/Cars/view.php:47
+msgid "Related Specifications"
+msgstr ""
+
+#: ./templates/Cars/view.php:52
+#: ./templates/Model/view.php:26
+#: ./templates/Model/view.php:48
+#: ./templates/Specifications/view.php:26
+#: ./templates/Specifications/view.php:44
+#: ./templates/Users/view.php:30
+#: ./templates/Users/view.php:48
+msgid "Id"
+msgstr ""
+
+#: ./templates/Cars/view.php:53
+#: ./templates/Specifications/view.php:22
+msgid "Type"
+msgstr ""
+
+#: ./templates/Model/add.php:11
+#: ./templates/Model/edit.php:16
+#: ./templates/Model/view.php:13
+msgid "List Model"
+msgstr ""
+
+#: ./templates/Model/add.php:18
+msgid "Add Model"
+msgstr ""
+
+#: ./templates/Model/edit.php:23
+#: ./templates/Model/view.php:11
+msgid "Edit Model"
+msgstr ""
+
+#: ./templates/Model/index.php:8
+#: ./templates/Model/view.php:14
+msgid "New Model"
+msgstr ""
+
+#: ./templates/Model/view.php:12
+msgid "Delete Model"
+msgstr ""
+
+#: ./templates/Model/view.php:30
+msgid "Price"
+msgstr ""
+
+#: ./templates/Model/view.php:43
+#: ./templates/Specifications/view.php:39
+#: ./templates/Users/view.php:43
+msgid "Related Cars"
+msgstr ""
+
+#: ./templates/Model/view.php:49
+#: ./templates/Specifications/view.php:45
+#: ./templates/Users/view.php:49
+msgid "User Id"
+msgstr ""
+
+#: ./templates/Model/view.php:51
+#: ./templates/Specifications/view.php:47
+#: ./templates/Users/view.php:51
+msgid "Slug"
+msgstr ""
+
+#: ./templates/Model/view.php:55
+#: ./templates/Specifications/view.php:51
+#: ./templates/Users/view.php:55
+msgid "Model Id"
+msgstr ""
+
+#: ./templates/Specifications/add.php:12
+#: ./templates/Specifications/edit.php:17
+#: ./templates/Specifications/view.php:13
+msgid "List Specifications"
+msgstr ""
+
+#: ./templates/Specifications/add.php:19
+msgid "Add Specification"
+msgstr ""
+
+#: ./templates/Specifications/edit.php:24
+#: ./templates/Specifications/view.php:11
+msgid "Edit Specification"
+msgstr ""
+
+#: ./templates/Specifications/index.php:8
+#: ./templates/Specifications/view.php:14
+msgid "New Specification"
+msgstr ""
+
+#: ./templates/Specifications/index.php:9
+msgid "Specifications"
+msgstr ""
+
+#: ./templates/Specifications/view.php:12
+msgid "Delete Specification"
+msgstr ""
+
+#: ./templates/Users/add.php:11
+#: ./templates/Users/edit.php:16
+#: ./templates/Users/view.php:13
+msgid "List Users"
+msgstr ""
+
+#: ./templates/Users/add.php:18
+msgid "Add User"
+msgstr ""
+
+#: ./templates/Users/edit.php:23
+#: ./templates/Users/view.php:11
+msgid "Edit User"
+msgstr ""
+
+#: ./templates/Users/index.php:8
+#: ./templates/Users/view.php:14
+msgid "New User"
+msgstr ""
+
+#: ./templates/Users/index.php:9
+msgid "Users"
+msgstr ""
+
+#: ./templates/Users/login.php:7
+msgid "Please enter your username and password"
+msgstr ""
+
+#: ./templates/Users/login.php:11
+msgid "Login"
+msgstr ""
+
+#: ./templates/Users/view.php:12
+msgid "Delete User"
+msgstr ""
+
+#: ./templates/Users/view.php:22
+msgid "Email"
+msgstr ""
+
+#: ./templates/layout/error.php:38
+msgid "Back"
+msgstr ""
+
